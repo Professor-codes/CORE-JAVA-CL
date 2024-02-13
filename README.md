@@ -13,9 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="60" height="60"/>&nbsp;
 </div>
 
-# Project preview
+# This Repo Contains Codes and Notes
 
-### This Repo Contains
+### Codes
 
 * <i>Java Fundamentals
 * <i>Java Inheritance
@@ -26,9 +26,16 @@
 * <i>Java super
 * <i>Java MethodOverloading
 * <i>Java MethodOverRiding
+
 * <i>Java Exceptionhandling
 * <i>Java Filehandling
 * <i>Java Multithreading
 
+### Notes
+
+* OOPS : [Click here](https://github.com/Professor-codes/CORE-JAVA-CL/files/14255981/OOPS.txt)
+* Thread : [Click here](https://github.com/Professor-codes/CORE-JAVA-CL/files/14255980/THREAD.txt)
+
 ![codeboy](https://github.com/Professor-codes/CORE-JAVA-CL/assets/126326997/0939fa91-d9ce-4b98-b15b-4cd4579410c6)
+
 
